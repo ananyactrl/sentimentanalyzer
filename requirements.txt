@@ -2,3 +2,4 @@ streamlit
 scikit-learn
 tensorflow
 numpy
+python-3.11
